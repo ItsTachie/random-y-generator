@@ -6,6 +6,7 @@ def offset():
     return random.randint(105,135)
 
 def draw_y():
+    btn.config(state=tk.DISABLED)
     t.clear()
     rotation = random.randint(0,90)
 
@@ -18,6 +19,8 @@ def draw_y():
 
 
         t.home()
+
+    btn.config(state=tk.NORMAL)
 
 # Create the main Tkinter window
 root = tk.Tk()
