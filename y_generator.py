@@ -2,9 +2,6 @@ import turtle
 import tkinter as tk
 import random
 
-
-rotation = random.randint(0,90)
-
 def offset():
     return random.randint(105,135)
 
