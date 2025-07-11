@@ -9,7 +9,6 @@ Each click of the **Generate** button produces a new Y shape with random angles 
 ---
 
 [Download](https://github.com/ItsTachie/random-y-generator/releases)
-- currently only for Windows
 
 ---
 
